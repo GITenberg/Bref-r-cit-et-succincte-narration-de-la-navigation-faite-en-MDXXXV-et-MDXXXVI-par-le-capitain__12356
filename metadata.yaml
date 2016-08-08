@@ -1,0 +1,46 @@
+_repo: Bref-r-cit-et-succincte-narration-de-la-navigation-faite-en-MDXXXV-et-MDXXXVI-par-le-capitain__12356
+_version: 0.0.1
+alternative_title: "Voyage de J. Cartier au Canada\r\nRelation originale de Jacques\
+  \ Cartier"
+contributor:
+  author_of_introduction:
+    agent_name: Avezac, M. d' (Marie Armand Pascal)
+    aliases:
+    - D'Avezac, M. (Marie Armand Pascal)
+    - Avezac-Macaya, Armand d'
+    - Castera-Macaya, Marie Armand Pascal d'Avezac de
+    birthdate: 1800
+    deathdate: 1875
+    gutenberg_agent_id: '39210'
+    url: http://www.gutenberg.org/2009/agents/39210
+creator:
+  author:
+    agent_name: Cartier, Jacques
+    alias: Quartier, Jacques
+    birthdate: 1491
+    deathdate: 1557
+    gutenberg_agent_id: '4334'
+    url: http://www.gutenberg.org/2009/agents/4334
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Jacques_Cartier
+    - http://en.wikipedia.org/wiki/Jacques_Cartier
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12356'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'America -- Discovery and exploration -- French'
+- !lcsh 'Indians of North America -- Languages'
+- !lcsh 'New France -- Discovery and exploration'
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Canada'
+- GITenberg
+title: Bref récit et succincte narration de la navigation faite en MDXXXV et MDXXXVI
+  par le capitaine Jacques Cartier aux îles de Canada, Hochelaga, Saguenay et autres
+url: http://www.gutenberg.org/ebooks/12356
