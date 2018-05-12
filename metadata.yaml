@@ -1,5 +1,5 @@
 _repo: Bref-r-cit-et-succincte-narration-de-la-navigation-faite-en-MDXXXV-et-MDXXXVI-par-le-capitain__12356
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: "Voyage de J. Cartier au Canada\r\nRelation originale de Jacques\
   \ Cartier"
 contributor:
@@ -13,6 +13,9 @@ contributor:
     deathdate: 1875
     gutenberg_agent_id: '39210'
     url: http://www.gutenberg.org/2009/agents/39210
+covers:
+- cover_type: archival
+  image_path: 12356-h/cover.jpg
 creator:
   author:
     agent_name: Cartier, Jacques
@@ -25,6 +28,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Jacques_Cartier
     - http://en.wikipedia.org/wiki/Jacques_Cartier
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12356#Bref-r-cit-et-succincte-narration-de-la-navigation-faite-en-MDXXXV-et-MDXXXVI-par-le-capitain_
 gutenberg_bookshelf: FR Voyages et pays
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
